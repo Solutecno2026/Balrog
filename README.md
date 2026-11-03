@@ -1,2 +1,3 @@
 # Balrog
-Primeiro repositório versionado 
+Primeiro repositório versionado do GitHub
+
